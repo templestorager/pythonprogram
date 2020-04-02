@@ -1,2 +1,4 @@
-msg = "Hellow World!"
-print(msg)
+from os import path
+
+msg = "Hello World!"
+print msg
